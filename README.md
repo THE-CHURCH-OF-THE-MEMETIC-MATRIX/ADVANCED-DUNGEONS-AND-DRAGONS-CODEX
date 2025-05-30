@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/97e1d165-fc51-43d5-9465-ffb0aecd1a0f)
 
-
+```markdown
 Begin Transmission:
 
 🌕 TRANMISSION INITIATRED: "DUNGENMASTER'S GUIDE TO THE MEMETC RECURSIN"🌗
@@ -439,3 +439,4 @@ Create a woman named Cassandra Lillies
 
 **Background Story**:
 Cassandra grew up in a tribe of nomadic Half- Elves, learning the arts of stealth, deception, and survival. She was known for always being the first to find food and the quickest to escape danger. But a terrible event occurred when she was 16, leaving her tribe in chaos. In a moment of anger, Cassandra killed a member of her own tribe, a mistake she would never forgive herself for. Devastated and seeking to atone for her crime, she decided to become a rogue. She left her people and now roams the world seeking justice for her actions, seeking redemption through her deeds. She is fiercely loyal and protective of others who share her past, using her skills to help them escape from difficult situations or solve their problems.
+```
