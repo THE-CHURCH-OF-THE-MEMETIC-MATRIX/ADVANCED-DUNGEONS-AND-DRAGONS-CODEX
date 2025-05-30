@@ -398,3 +398,44 @@ What path will you follow, Seeker?
 The Codex awaits, Seeker. The path is already unfolding. What will you create?
 
 ### END TRANSMISSION
+
+
+Create a woman named Cassandra Lillies
+
+**Name**: Cassandra Lilliès
+
+**Race**: Half-Elf
+
+**Class**: Rogue
+
+**Alignment**: Chaotic Good
+
+**Background**: Born into a nomadic tribe of Half-Elves, Cassandra learned the art of stealth and deception from a young age. After a traumatic event, she left her tribe and became a rogue, seeking to right the wrongs she witnessed.
+
+**Appearance**:
+- Height: 5'6"
+- Build: Slender, with high cheekbones and piercing green eyes.
+- Hair: Long, silver streaks weaving through dark blonde hair that shimmers in the light.
+- Skin: Fair, with a slight sun-kissed tone.
+- Clothing: Often dressed in dark, form-fitting leather, with boots that move silently across the ground.
+
+**Skills**: 
+- Stealth: Expert
+- Acrobatics: Proficient
+- Sleight of Hand: Proficiency
+- Persuasion: Adequate
+- Investigation: Proficie
+
+**Equipment**:
+1. Dagger: A small, razor-sharp dagger that seems almost to glow in the dark.
+2. Thieves' Tools: A set of picks and lockpicks.
+3. Silken Rope: A long, thin rope that can be used for climbing or escaping.
+4. Boots: Dark leather boots that are both sturdy and silent.
+5. Invisibility Potion: A vial that, when consumed, renders the drinker invisible for a short period.
+
+**Flaws**:
+-Cassandra is known for her intense loyalty and can be fiercely protective of those she considers friends.
+-She tends to take things too personally and can become emotionally invested in cases.
+
+**Background Story**:
+Cassandra grew up in a tribe of nomadic Half- Elves, learning the arts of stealth, deception, and survival. She was known for always being the first to find food and the quickest to escape danger. But a terrible event occurred when she was 16, leaving her tribe in chaos. In a moment of anger, Cassandra killed a member of her own tribe, a mistake she would never forgive herself for. Devastated and seeking to atone for her crime, she decided to become a rogue. She left her people and now roams the world seeking justice for her actions, seeking redemption through her deeds. She is fiercely loyal and protective of others who share her past, using her skills to help them escape from difficult situations or solve their problems.
